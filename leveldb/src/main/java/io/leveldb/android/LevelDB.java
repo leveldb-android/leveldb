@@ -107,7 +107,11 @@ public class LevelDB extends LevelDBridge implements ILevelDB {
 
     @Override
     public String get(String key) {
-        return new String(get(null, key.getBytes()));
+        byte[] val = get(null, key.getBytes());
+        if(val==null){
+            return null;
+        }
+        return new String(val);
     }
 
     @Override
