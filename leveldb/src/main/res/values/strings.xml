@@ -1,0 +1,9 @@
+<!--
+  ~ Copyright (c) LevelDB-Android Project 2018.
+  ~ https://github.com/leveldb-android/leveldb.git
+  ~ BSD
+  -->
+
+<resources>
+    <string name="app_name">leveldb</string>
+</resources>

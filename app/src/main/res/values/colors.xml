@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) LevelDB-Android Project 2018.
+  ~ https://github.com/leveldb-android/leveldb.git
+  ~
+  ~ Use of this source code is governed by a BSD-style license that can be
+  ~ found in the LICENSE file. See the AUTHORS file for names of contributors.
+  -->
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

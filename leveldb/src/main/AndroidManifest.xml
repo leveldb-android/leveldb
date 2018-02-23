@@ -1,0 +1,7 @@
+<!--
+  ~ Copyright (c) LevelDB-Android Project 2018.
+  ~ https://github.com/leveldb-android/leveldb.git
+  ~ BSD
+  -->
+
+<manifest package="io.leveldb.android" />
